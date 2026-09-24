@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "header": "Tienes derecho a apoyo psicológico y de trabajo social. Busca ayuda.",
+    "text": "Contamos con lugares de atención especializada, con psicólogas, abogadas y trabajadoras sociales listas para escucharte y apoyarte. Haz clic abajo y encuentra la unidad más cercana.",
+    "image": "VIOLENCIA_PSICOLOGICA.svg",
+    "name": "Violencia Moral y Psicológica",
+    "idTipoViolencia": 1
+  },
+  {
+    "id": 2,
+    "header": "Que te escondan o controlen tus documentos, tu dinero y tus bienes es un delito, y tienes derecho a buscar ayuda.",
+    "text": "Si alguien te está impidiendo acceder a tu dinero, tus documentos u otros bienes, busca una atención especializada para recibir apoyo jurídico. Puedes acudir a nuestros Centros de Atención a la Mujer o a la Casa de la Mujer. Además, también puedes acudir a una estación de policía o a la Fiscalía para presentar la denuncia.",
+    "image": "VIOLENCIA_PATRIMONIAL.svg",
+    "name": "Violencia Patrimonial",
+    "idTipoViolencia": 2
+  },
+  {
+    "id": 3,
+    "header": "Nadie tiene derecho a tocarte sin tu consentimiento. Conoce cómo actuar.",
+    "text": "El acoso es un delito y una violación de tus derechos. Puedes buscar apoyo psicológico y jurídico en un Centro de Atención a la Mujer o acudir a la Casa de la Mujer. Además, también puedes acudir a una estación de policía o a la Fiscalía para denunciar el delito.",
+    "name": "Acoso Sexual",
+    "image": "ASSEDIO_SEXUAL.svg",
+    "idTipoViolencia": 3
+  },
+  {
+    "id": 4,
+    "header": "Si estás lastimada, busca atención médica.",
+    "text": "La violencia no se justifica; puedes y debes buscar ayuda. Primero, busca atención médica para cuidar tu salud. Luego, puedes buscar apoyo psicológico, jurídico y de trabajo social en los Centros de Atención a la Mujer o en la Casa de la Mujer. Si lo deseas, también puedes acudir a una Comisaría de Familia para solicitar una medida de protección.",
+    "name": "Violencia Física",
+    "image": "VIOLENCIA_FISICA.svg",
+    "idTipoViolencia": 5
+  },
+  {
+    "id": 5,
+    "header": "Busca ayuda médica lo antes posible. Eres víctima y tienes derecho a atención y protección.",
+    "text": "Si fuiste abusada o forzada a tener relaciones sexuales, ten presente que la culpa nunca es tuya. Busca atención médica lo más rápido posible para cuidar tu salud y prevenir infecciones y un embarazo, especialmente en las primeras 72 horas. Todos los centros de salud, puntos de urgencias, hospitales y centros médicos están preparados para esta atención. También puedes buscar apoyo en un Centro de Atención a la Mujer. Si lo deseas, presenta la denuncia en una estación de policía o en la Fiscalía.",
+    "name": "Violencia Sexual",
+    "image": "VIOLENCIA_SEXUAL.svg",
+    "idTipoViolencia": 4
+  },
+  {
+    "id": 6,
+    "header": "Tu vida está en riesgo. Busca protección ahora.",
+    "text": "Si necesitas un lugar seguro, puedes ir a un refugio confidencial con tus hijos menores de edad. Si es necesario, acude a un Centro de Atención a la Mujer o a la Casa de la Mujer para solicitar la derivación. Si estás lastimada, ve a un centro de salud, punto de urgencias u hospital para recibir atención médica. También puedes acudir a una Comisaría de Familia para solicitar una medida de protección.",
+    "name": "Feminicidio",
+    "image": "FEMINICIDIO.svg",
+    "idTipoViolencia": 6
+  },
+  {
+    "id": 201,
+    "header": "Ella tiene derecho a apoyo psicológico y de trabajo social. Mira cómo ayudarla.",
+    "text": "Muchas mujeres que viven situaciones de violencia sienten miedo o vergüenza de pedir ayuda. Habla con ella y muéstrale que no está sola. Existen lugares de atención especializada, con psicólogas, abogadas y trabajadoras sociales listas para escucharla y apoyarla. Haz clic abajo y encuentra la unidad más cercana.",
+    "name": "Violencia Moral y Psicológica",
+    "image": "VIOLENCIA_PSICOLOGICA.svg",
+    "idTipoViolencia": 1
+  },
+  {
+    "id": 202,
+    "header": "Ella tiene derecho a su propio dinero y a sus documentos. Conoce cómo ayudarla.",
+    "text": "Si alguien le está impidiendo acceder a su dinero, sus documentos u otros bienes, ella puede buscar apoyo jurídico. Oriéntala para que acuda a un Centro de Atención a la Mujer o a la Casa de la Mujer. Además, también puede acudir a una estación de policía o a la Fiscalía para presentar la denuncia.",
+    "name": "Violencia Patrimonial",
+    "image": "VIOLENCIA_PATRIMONIAL.svg",
+    "idTipoViolencia": 2
+  },
+  {
+    "id": 203,
+    "header": "Nadie tiene derecho a tocarla sin su consentimiento. Mira cómo apoyarla.",
+    "text": "El acoso es un delito y una violación de sus derechos. Puedes ayudarla animándola a buscar apoyo psicológico y jurídico en un Centro de Atención a la Mujer o en la Casa de la Mujer. Si ella quiere denunciar, puede acudir a una estación de policía o a la Fiscalía. El apoyo de alguien de confianza puede marcar la diferencia.",
+    "name": "Acoso Sexual",
+    "image": "ASSEDIO_SEXUAL.svg",
+    "idTipoViolencia": 3
+  },
+  {
+    "id": 204,
+    "header": "Si ella está lastimada, ayúdala a buscar atención médica.",
+    "text": "La violencia no se justifica. Anima a tu amiga a buscar atención médica para cuidar su salud. Después, ella puede buscar apoyo psicológico, jurídico y de trabajo social en los Centros de Atención a la Mujer o en la Casa de la Mujer. Si lo desea, también puede acudir a una Comisaría de Familia para solicitar una medida de protección.",
+    "name": "Violencia Física",
+    "image": "VIOLENCIA_FISICA.svg",
+    "idTipoViolencia": 5
+  },
+  {
+    "id": 205,
+    "header": "Ella tiene derecho a atención médica y protección. Mira cómo ayudarla.",
+    "text": "Si tu amiga fue abusada o forzada a tener relaciones sexuales, muéstrale que la culpa nunca es de ella. Oriéntala para que busque atención médica lo más rápido posible para cuidar su salud y prevenir infecciones y un embarazo, especialmente en las primeras 72 horas. Todos los centros de salud, puntos de urgencias, hospitales y centros médicos están preparados para esta atención. Si lo desea, también puede buscar apoyo psicológico y jurídico en los Centros de Atención a la Mujer o en la Casa de la Mujer, o presentar la denuncia en una estación de policía o en la Fiscalía.",
+    "name": "Violencia Sexual",
+    "image": "VIOLENCIA_SEXUAL.svg",
+    "idTipoViolencia": 4
+  },
+  {
+    "id": 206,
+    "header": "La vida de ella puede estar en riesgo. Mira cómo ayudarla a protegerse.",
+    "text": "Ella corre riesgo de muerte. Puede ir a un refugio confidencial con sus hijos menores de edad. Ayúdala a acudir a un Centro de Atención a la Mujer o a la Casa de la Mujer para solicitar esa derivación y mantenerse segura. Si ella está lastimada, anímala a buscar atención médica. Además, puede acudir a una estación de policía o a la Fiscalía para denunciar el delito y a una Comisaría de Familia para solicitar una medida de protección. Ayúdala a buscar protección ahora.",
+    "name": "Feminicidio",
+    "image": "FEMINICIDIO.svg",
+    "idTipoViolencia": 6
+  }
+]

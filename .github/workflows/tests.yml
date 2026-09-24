@@ -1,0 +1,41 @@
+name: Tests
+
+# Se ejecuta en cada push y en cada pull request hacia cualquier rama.
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    # Variables de entorno necesarias para que la app arranque en CI.
+    # JWT_SECRET_KEY es una clave "dummy" solo para pruebas (>= 32 caracteres),
+    # NUNCA debe usarse en un entorno real.
+    env:
+      JWT_SECRET_KEY: "clave-dummy-solo-para-ci-github-actions-0123456789"
+      DATABASE_URL: "sqlite:///./ci_test.db"
+
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Aplicar migraciones (Alembic)
+        run: alembic upgrade head
+
+      - name: Verificar que no falten migraciones (modelos vs. migraciones)
+        run: alembic check
+
+      - name: Ejecutar pruebas (pytest)
+        run: pytest -v

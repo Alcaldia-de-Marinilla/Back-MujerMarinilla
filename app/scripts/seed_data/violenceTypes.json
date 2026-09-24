@@ -1,0 +1,104 @@
+[
+  {
+    "id": 0,
+    "name": "Violencia Moral",
+    "description": "Desvalorización de la persona con comentarios ofensivos, humillaciones y/o insultos, en público o en privado. Puede afectar la autoestima de la víctima y perjudicar su convivencia social, familiar o profesional, causando humillación y sufrimiento emocional.",
+    "examples": [
+      "Calumnias sobre la vida íntima o la reputación",
+      "Difamación en redes sociales o en espacios públicos",
+      "Insultos que desvalorizan a la mujer",
+      "Humillar a la víctima por su origen, clase social o profesión",
+      "Exposición humillante en público o en internet",
+      "Difundir mentiras para perjudicar a la víctima"
+    ],
+    "image": "VIOLENCIA_MORAL.svg"
+  },
+  {
+    "id": 1,
+    "name": "Violencia Psicológica",
+    "description": "Actitudes, comentarios o amenazas que causan daños emocionales y afectan el bienestar de la mujer, como: control, manipulación, humillación, aislamiento, culpa y desvalorización de la víctima. Puede provocar miedo, inseguridad y dependencia emocional, lo que dificulta la búsqueda de ayuda.",
+    "examples": [
+      "Manipulación y chantaje emocional",
+      "Amenazas de muerte contra ella o sus hijos y familiares",
+      "Control excesivo",
+      "Inducir sentimientos de culpa",
+      "Prohibición de relacionarse con otras personas",
+      "Impedir que salga de casa",
+      "Desvalorización de la apariencia, los logros y la inteligencia de la mujer"
+    ],
+    "image": "VIOLENCIA_PSICOLOGICA.svg"
+  },
+  {
+    "id": 2,
+    "name": "Violencia Patrimonial",
+    "description": "Quitar, esconder, controlar o destruir las pertenencias de la mujer, como: documentos, dinero, celular, objetos personales o herramientas de trabajo. Esto puede comprometer su independencia financiera, limitar su libertad de decisión e impedir su acceso a recursos básicos para el día a día.",
+    "examples": [
+      "Destrucción de bienes personales, como el celular o la ropa",
+      "Control de las cuentas bancarias y las finanzas",
+      "Venta de bienes sin consentimiento",
+      "Hurto o destrucción de documentos",
+      "Retener el dinero, las tarjetas o las claves bancarias de la víctima",
+      "Usar el nombre de la víctima para adquirir deudas o préstamos"
+    ],
+    "image": "VIOLENCIA_PATRIMONIAL.svg"
+  },
+  {
+    "id": 3,
+    "name": "Acoso Sexual",
+    "description": "Cualquier comportamiento de naturaleza sexual no consentido que cause incomodidad, intimidación o humillación a la víctima. Puede ocurrir en distintos entornos, como el trabajo, el transporte público, espacios públicos, privados o en línea, y muchas veces implica abuso de poder o coacción.",
+    "examples": [
+      "Comentarios o chistes de contenido sexual dirigidos a la víctima",
+      "Tocamientos, abrazos o contactos físicos sin consentimiento",
+      "Invitaciones insistentes a encuentros íntimos no deseados",
+      "Chantaje sexual",
+      "Envío de mensajes, imágenes o videos de contenido sexual sin permiso",
+      "Exhibición indecente o gestos obscenos no deseados"
+    ],
+    "image": "ASSEDIO_SEXUAL.svg"
+  },
+  {
+    "id": 4,
+    "name": "Violencia Sexual",
+    "description": "Obligar a la persona a ver, hacer o participar en actos sexuales sin su permiso, forzar la prostitución, prohibir el uso de anticonceptivos u obligar a quedar embarazada. Este tipo de violencia puede causar traumas profundos e impactar la salud física y mental de la víctima. ¡El intento también es un delito!",
+    "examples": [
+      "Relación sexual forzada, incluso dentro del matrimonio",
+      "Presionar para realizar prácticas sexuales no deseadas",
+      "Impedir el uso de anticonceptivos o forzar el embarazo",
+      "Explotación sexual o abusos",
+      "Acoso",
+      "Fotografiar o grabar sin consentimiento",
+      "Forzar a la víctima a mostrarse desnuda o a enviar fotos íntimas"
+    ],
+    "image": "VIOLENCIA_SEXUAL.svg"
+  },
+  {
+    "id": 5,
+    "name": "Violencia Física",
+    "description": "Lastimar a la mujer o perjudicar su salud usando la fuerza física, como: golpear, lanzar objetos, empujar, sacudir o sujetar con fuerza. Puede dejar marcas visibles o no, ocasionar secuelas permanentes y comprometer la seguridad de la víctima. ¡El intento también es un delito!",
+    "examples": [
+      "Golpizas",
+      "Lanzar objetos, sacudir y apretar los brazos",
+      "Estrangulamiento o asfixia",
+      "Lesiones con objetos cortantes o punzantes",
+      "Heridas causadas por quemaduras o armas de fuego",
+      "Tortura"
+    ],
+    "image": "VIOLENCIA_FISICA.svg"
+  },
+  {
+    "id": 6,
+    "name": "Feminicidio",
+    "description": "Matar o intentar matar a una mujer solo por el hecho de ser mujer, sin condiciones físicas o psicológicas proporcionales para defenderse. El agresor puede tener o no una relación afectiva con la víctima. <highlight>Este delito es la etapa más extrema del ciclo de agresiones, por eso es esencial buscar ayuda ante la primera señal de violencia.</highlight> El agresor puede tener o no una relación afectiva con la víctima.",
+    "examples": [
+      "Golpizas",
+      "Lanzar objetos, sacudir y apretar los brazos",
+      "Estrangulamiento o asfixia",
+      "Lesiones con objetos cortantes o punzantes",
+      "Heridas causadas por quemaduras o armas de fuego",
+      "Tortura",
+      "Matar por celos, posesión u odio",
+      "Homicidio motivado por el rechazo o la separación"
+    ],
+    "image": "FEMINICIDIO.svg"
+  }
+]

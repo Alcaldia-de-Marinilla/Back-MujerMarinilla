@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "abbreviation": "CEAM",
+    "name": "Centro Especializado de Atención a la Mujer",
+    "description": "Atención psicosocial y orientación jurídica para mujeres en situación de violencia doméstica o familiar, incluidos grupos de reflexión. La unidad realiza atenciones individuales con escucha cualificada, deriva los casos y promueve la reflexión para romper el ciclo de violencia. En casos de riesgo inminente, deriva a una casa refugio."
+  },
+  {
+    "id": 2,
+    "abbreviation": "NEAP",
+    "name": "Núcleo de Atención Psicológica",
+    "description": "Ofrece atención psicológica continuada para mujeres en situación de violencia. El servicio busca ayudar a superar cualquier tipo de violencia contra la mujer, promoviendo el restablecimiento emocional y la reconstrucción de su vida. El acceso ocurre por derivación de las entidades de la red de atención a la violencia contra la mujer, como los centros de atención a la mujer y las comisarías."
+  },
+  {
+    "id": 3,
+    "abbreviation": "CVM",
+    "name": "Casa de Acogida",
+    "description": "Acogida, en condición de confidencialidad, de las mujeres víctimas de violencia doméstica en situación de riesgo inminente de muerte, y de sus hijos e hijas. Durante la permanencia en el refugio, las mujeres tienen garantizada atención psicosocial, jurídica y demás derivaciones socioasistenciales necesarias para alcanzar su autonomía. Este servicio se accede por derivación, a través de los servicios de la red de atención a la violencia contra la mujer."
+  },
+  {
+    "id": 4,
+    "abbreviation": "CMC",
+    "name": "Casa de la Mujer",
+    "description": "Ofrece atención psicosocial, orientación jurídica y pedagógica, además de cursos y talleres de capacitación profesional. También promueve charlas, conversatorios y actividades colectivas sobre temas de género. La atención la realiza un equipo multidisciplinario que incluye trabajadoras sociales, psicólogas, pedagogas y abogadas, con el objetivo de la inclusión social, la autonomía y el empoderamiento femenino."
+  },
+  {
+    "id": 5,
+    "abbreviation": "NEAM",
+    "name": "Núcleo Especializado de Atención a la Mujer",
+    "description": "Unidades ubicadas dentro de las Casas de la Mujer; los núcleos ofrecen atención psicosocial y orientación jurídica para mujeres en situación de violencia doméstica o familiar, incluidos grupos de reflexión. La unidad realiza atenciones individuales con escucha cualificada, deriva los casos y promueve la reflexión para romper el ciclo de violencia. En casos de riesgo inminente, deriva a una casa refugio."
+  }
+]
